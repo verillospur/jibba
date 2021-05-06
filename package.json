@@ -1,0 +1,23 @@
+{
+  "name": "jibba",
+  "version": "1.0.0",
+  "description": "jibba client\u001bore",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verillospur/jibba.git"
+  },
+  "keywords": [
+    "jibba",
+    "core"
+  ],
+  "author": "bs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verillospur/jibba/issues"
+  },
+  "homepage": "https://github.com/verillospur/jibba#readme"
+}
