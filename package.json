@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/verillospur/jibba/issues"
   },
-  "homepage": "https://github.com/verillospur/jibba#readme"
+  "homepage": "https://github.com/verillospur/jibba#readme",
+  "dependencies": {
+    "date-fns": "^2.21.3",
+    "mongodb": "^3.6.6",
+    "random": "^3.0.6"
+  }
 }
