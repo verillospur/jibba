@@ -1,5 +1,6 @@
 # Logs
 logs
+_logs
 *.log
 npm-debug.log*
 yarn-debug.log*
@@ -102,3 +103,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# mongo big files (dunno what they are)
+data/db/journal/*
